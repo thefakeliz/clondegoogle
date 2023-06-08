@@ -27,4 +27,4 @@ Contiene las siguientes secciones:
 Aprender a utilizar las etiquetas de HTML5 y CSS3.
 
 ## 4. Link a demo
-Aqui puedes visualizar mi proyecto terminado: [Clonacion de Google].(Link)
+Aqui puedes visualizar mi proyecto terminado: (https://glowing-rabanadas-fead70.netlify.app/)
